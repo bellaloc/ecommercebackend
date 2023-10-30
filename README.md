@@ -2,6 +2,9 @@
 
 The E-Commerce Back End is a powerful and scalable backend solution for your e-commerce website, allowing you to manage products, categories, and tags efficiently. This application is built using Express.js and Sequelize, providing a robust API to interact with a MySQL database.
 
+## video 
+ https://drive.google.com/file/d/1nTd9tJX-02JV2MfW3gBm7_kZtCqfGX30/view
+
 ## Table of Contents
 
 Installation
@@ -17,7 +20,7 @@ Clone this repository to your local environment using the following command:
 
 ## bash
 
-git clone https://github.com/bellaloc/ecommerce.git
+git clone https://github.com/bellaloc/ecommercebackend.git
 Navigate to the project directory:
 
 cd ecommerce
